@@ -1,5 +1,5 @@
 # Cloudflare Docs
-
+.accountants
 **[View the docs →](https://developers.cloudflare.com/)**
 
 ## Why Cloudflare Docs is open source
